@@ -1,0 +1,27 @@
+html{
+  background-color: #ad9820c7;
+}
+body{
+  background-color:rgba(63, 59, 59, 0.63);
+}
+
+.jumbotron{
+  border-left: 6px inset rgb(129, 127, 5);
+   background-color: #d1d1cf;
+  float: center;
+  box-shadow: 10px 12px;
+}
+
+.delete-btn {
+  float: right;
+  color: #111374d0;
+}
+form{
+  box-shadow: 10px 20px;
+  border: 1px solid yellow;
+  outline-style: solid;
+  outline-color: invert;
+}
+h3{
+  color: aquamarine;
+}
