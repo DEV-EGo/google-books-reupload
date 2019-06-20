@@ -1,3 +1,15 @@
+// what is left:
+// i basically stole boiler points from the previous class activities
+// i reconfigured the bookpages , SRC  , utils, controllers
+// models , routes folder structures 
+// and implemented my own functions and have the application rendering
+// i cant get the books to display once the user hits submit
+// in theory i believe the API.js file is not rendering inside my listitems
+// or my booksController is not wired up correctly inside this file
+// this was harder then the clicky-game
+
+
+
 import React, { Component } from "react";
 import Jumbotron from "../components/Jumbotron";
 import API from "../utils/API";
