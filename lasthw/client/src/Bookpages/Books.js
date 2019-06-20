@@ -6,6 +6,9 @@
 // i cant get the books to display once the user hits submit
 // in theory i believe the API.js file is not rendering inside my listitems
 // or my booksController is not wired up correctly inside this file
+// i tried deploying it just as the clickygame through  create react app to Github pages
+// but nothing is displaying
+//if you run my code locally you can see what ive created
 // this was harder then the clicky-game
 
 
